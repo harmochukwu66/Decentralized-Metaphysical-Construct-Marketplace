@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/abstract-concept-tokenization.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: belief-system-impact-assessment
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/belief-system-impact-assessment.clar
+            clarity-version: 2
       epoch: "2.5"

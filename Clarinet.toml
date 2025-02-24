@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/abstract-concept-tokenization.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.memetic-propagation]
+path = 'contracts/memetic-propagation.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
